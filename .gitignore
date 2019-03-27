@@ -1,3 +1,8 @@
 .idea/*
 .idea
 .idea/vcs.xml
+config.conf
+venv*
+*.mp3
+*.png
+__pycache__*
